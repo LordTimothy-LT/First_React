@@ -1,0 +1,11 @@
+
+.footer{
+    background-color: #ec502d;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 3%;
+}
+.footer > div {
+    width: 40%;
+}

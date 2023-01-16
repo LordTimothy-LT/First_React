@@ -1,0 +1,27 @@
+axios   integration
+fecth   integration
+async  /  defer
+UseCallback
+UseEffect
+await
+js promise
+component did mount
+component did update
+component will unmount
+diploy
+useLocation
+state
+replace
+link
+navigate
+navlink
+json placeHolder
+youtube(css grid tutorial: responsive card design)
+component
+function
+react hooks
+state management
+react router
+useReducer = StateMgt
+reduxe
+

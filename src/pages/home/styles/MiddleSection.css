@@ -1,0 +1,9 @@
+.comments{
+    display: flex;
+    padding: 3%;
+    justify-content: space-around;
+    color: gray;
+}
+.comment{
+    padding: 1%;
+}

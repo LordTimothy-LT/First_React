@@ -1,0 +1,42 @@
+.hero_main{
+    background-image: url("../../../assets/images/truecaller.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    padding: 2%;
+}
+
+.hero_sec{
+    width: 40%;
+    height: 100%;
+}
+
+.hero_ptag_one{
+    font-size: 45px;
+    font-weight: 500;
+    padding-left: 18%;
+}
+
+.hero_ptag_two{
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 18%;
+}
+
+.hero_btn{
+    width: 60%;
+    justify-content: space-between;
+    padding-left: 18%;
+}
+
+.hero_ptag_three{
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    grid-template-columns: auto auto auto;
+    align-content: center;
+    align-items: center;
+    /* padding-left: 20%; */
+    justify-content: space-between;
+}

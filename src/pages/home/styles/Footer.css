@@ -1,0 +1,21 @@
+.foot_main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    height: 110px;
+    align-content: center;
+    align-items: center;
+}
+
+.foot_ptag_one{
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0% 30% ;
+}
+
+.foot_ptag_two{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 0% 18% 0% 18%;
+}

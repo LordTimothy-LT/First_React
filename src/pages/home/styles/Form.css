@@ -1,0 +1,16 @@
+.form input, textarea{
+    outline: none;
+    border: none;
+    width: 80%;
+    padding: 1%;
+}
+
+.form button{
+    background-color: #fff;
+    font-weight: 400;
+    padding: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer
+    ;
+}
